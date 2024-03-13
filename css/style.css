@@ -1,0 +1,26 @@
+.koffiekamer{
+    background-image: url("../media/achter_koffiekamer.png");
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.docent1 {
+    background-image: url("../media/achter_samenstellen.png")
+}
+
+.koptekst {
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 2%;
+}
+
+.koptekst a {
+    margin-top: 2%;
+    margin-right: 2%; 
+    background-color: white;
+    padding: 2%;
+}
+
+.harold_staan{
+    margin-left: 70%;
+}
